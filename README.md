@@ -1,2 +1,7 @@
 # 1st_handson
-develop
+## Issue
+Branch protect rule trial
+## Braches
+### Restricted: 
+- main: for public 
+- develop: for developers
